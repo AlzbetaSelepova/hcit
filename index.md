@@ -1,3 +1,9 @@
+ <p id="logo">Alzbeta Selepova UXD</p>
+  <a href="#contact">Contact</a>
+  <a href="#resume">Resume</a>
+  <a href="#portfolio">Portfolio</a>
+  <a href="#about">About</a>
+  
 ## Welcome to HCI portfolio of Alzbeta Selepova
 
 Human Computer Interaction porfolio 
