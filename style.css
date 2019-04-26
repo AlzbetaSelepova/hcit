@@ -1,0 +1,100 @@
+/************colour pallete************
+#65000B - Rosewood
+#636363 - Grey
+#FFFFFF - white
+#070707 - black
+
+/************GLOBAL STYLE************/
+html {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Tajawal', sans-serif;
+  margin: 0;
+  max-width: 100%;
+}
+/**love this**/
+h1, h2{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+h1 {
+  font-size: 80px;
+  padding-top: 4%;
+  text-align: center;
+}
+h2 {
+  font-size: 45px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h3 {
+  font-size: 30px;
+  margin: 1%;
+  margin-top: 0;
+}
+a {
+  color: #999999;
+  text-decoration: none;
+  font-weight: 650;
+}
+a:hover{
+  color: #65000B;
+  font-size: 102%;
+}
+.text{
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/************FOOTER AND HEADER************/
+header{
+  background: white;
+  color: #070707;
+}
+/* header */
+header {
+  position: relative;
+  height: 100%;
+}
+
+/* footer */
+footer{
+  text-align: center;
+  background: white;
+}
+.contact-info a {
+  padding: 5%;
+  display: inline-block;
+}
+
+.contact-info a:hover {
+  color: white;
+}
+
+/************NAVIGATION************/
+#navbar {
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background: white;
+  position: fixed;
+  top: -50px;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+#navbar a {
+  display: inline-block;
+  padding: 1% 3%;
+  text-decoration: none;
+}
+/************PROJECTS and PICTURES************/
+
+.mySlides {
+  max-width: 100%;
+  height: auto;
+}
+.projects {
+  max-width: 100%;
+  height: auto;
+}
